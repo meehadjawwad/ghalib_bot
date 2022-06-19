@@ -1,1 +1,1 @@
-worker: python ghalib_main.py
+worker: python ghalib_tweet.py
