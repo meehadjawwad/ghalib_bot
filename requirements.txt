@@ -1,0 +1,4 @@
+charset-normalizer==2.0.12
+oauthlib==3.2.0
+PySocks==1.7.1
+tweepy==4.10.0
