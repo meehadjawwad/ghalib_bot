@@ -71,7 +71,6 @@ lyrics = ["'ġhālib' burā na maan jo vaa.iz burā kahe \\ aisā bhī koī hai 
           'baham bālīdan-e-sañg-o-gul-e-sahrā ye chāhe hai \\ ki tār-e-jāda bhī kohsār ko zunnār-e-mīnā ho',
           'bahut dinoñ meñ taġhāful ne tere paidā kī \\ vo ik nigah ki ba-zāhir nigāh se kam hai',
           'bahut sahī ġham-e-gītī sharāb kam kyā hai \\ ġhulām-e-sāqī-e-kausar huuñ mujh ko ġham kyā hai',
-          'bahā hai yaañ tak ashkoñ meñ ġhubār-e-kulfat-e-ḳhātir \\ ki chashm-e-tar meñ har ik pāra-e-dil pā-e-dar-gil hai',
           'baiza-āsā nañg-e-bāl-o-par hai ye kunj-e-qafas \\ az-sar-e-nau zindagī ho gar rihā ho jā.iye',
           'bajā hai gar na sune nāla-hā-e-bulbul-e-zār \\ ki gosh-e-gul nam-e-shabnam se pamba-āgīñ hai',
           'bak rahā huuñ junūñ meñ kyā kyā kuchh \\ kuchh na samjhe ḳhudā kare koī',
