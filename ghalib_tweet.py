@@ -395,7 +395,6 @@ lyrics = ["'ġhālib' burā na maan jo vaa.iz burā kahe \\ aisā bhī koī hai 
           'laag ho to us ko ham samjheñ lagāo \\ jab na ho kuchh bhī to dhokā khā.eñ kyā',
           'lag ga.ī aag agar ghar ko to andesha kyā \\ sho.ala-e-dil to nahīñ hai ki bujhā bhī na sakūñ',
           'lakad kūb-e-havādis kā tahammul kar nahīñ saktī \\ mirī tāqat ki zāmin thī butoñ kī naaz uThāne kī',
-          'laraztā hai mirā dil zahmat-e-mehr-e-daraḳhshāñ par \\ maiñ huuñ vo qatra-e-shabnam ki ho ḳhār-e-bayābāñ par',
           'laḳht-e-jigar se hai rag-e-har-ḳhār shāḳh-e-gul \\ tā chand bāġh-bāni-e-sahrā kare koī',
           'le ga.ī saaqī kī naḳhvat qulzum-āshāmī mirī \\ mauj-e-mai kī aaj rag miinā kī gardan meñ nahīñ',
           'le to luuñ sote meñ us ke paañv kā bosa magar \\ aisī bātoñ se vo kāfir bad-gumāñ ho jā.egā',
