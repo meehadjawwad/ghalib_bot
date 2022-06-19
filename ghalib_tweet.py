@@ -2,7 +2,7 @@
 
 # importing the libraries
 # the keys_for_faiz_bot and lyrics libraries are .py files
-
+from requests_oauthlib import OAuth1Session
 import os
 import tweepy
 import time
